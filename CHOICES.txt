@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: 321
-Second Choice: ____
+First Choice: 1c 1b 1a
+Second Choice: 2b 2a
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
