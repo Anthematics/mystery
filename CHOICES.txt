@@ -2,9 +2,9 @@ CHOICES
 
 First Choice:  1A
 Second Choice: 2A
-Third Choice: 3a
-Fourth Choice: 4b
-Fifth Choice:  5a
+Third Choice: 3c
+Fourth Choice: 
+Fifth Choice: 5D
  
 
-You need to merge several of your choices together: times where you accused Billy, Helga, and Danny, into the master branch. This will of course prompt a merge conflict, but you simply have to resolve that conflict to see the final ending.
+You need to merge several of your choices together: times where you accused Billy, Helga, and Danny, into the master branch. This will of course prompt a merge conflict, but you simply have to resolve that conflict to see the final ending.git
