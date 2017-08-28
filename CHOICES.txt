@@ -1,7 +1,9 @@
 CHOICES
 
-First Choice: 1c 1b 1a
-Second Choice: 2b 2a
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: 1c 1b 1A
+Second Choice: 2b 2A
+Third Choice: 3a 3b__
+Fourth Choice: 4a 4c__
+Fifth Choice: 5c 5b __
+5c bad ending 
+
